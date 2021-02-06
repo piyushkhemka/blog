@@ -1,5 +1,5 @@
 name: "Blog"
-description: "Blogging about stuffs"
+description: ""
 meta_description: "My blog & thoughts"
 
 markdown: kramdown
@@ -19,6 +19,7 @@ author: "Piyush Khemka"
 
 # Disqus config
 disqus-shortname: "piyushkhemka"
+disqus: "piyushkhemka"
 sass:
     sass_dir: "_sass"
 

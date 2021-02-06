@@ -1,8 +1,18 @@
 ---
 layout: post
-title:  "Coming soon"
+title:  "Testing excerpt soon"
 date:   2021-01-01 10:18:00
-categories: [Test]
+categories: [Excerpts]
 ---
 
-Test
+Going to put a blog up here. But before that I need to test a few things such as whether this is readable & if the formatting is pleasant to the eyes.
+this is a test
+
+
+This too
+
+
+Ok
+
+
+Fins
