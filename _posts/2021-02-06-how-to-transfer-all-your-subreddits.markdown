@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to transfer all your subreddits"
+title:  "How to transfer all your subreddits from one account to another"
 date:   2021-02-06 00:45
 categories: [Reddit]
 ---
