@@ -2,7 +2,7 @@
 layout: default
 title: Home
 cover: false
-about: 'about.html'
+about: ''
 ---
 
 <header class="main-header {% if page.cover %}"
@@ -50,9 +50,11 @@ about: 'about.html'
                 <img class="author-thumb" src="{{'/assets/images/profile.jpg' | relative_url}}" alt="Author's profile picture" nopin="nopin" />
                 {{ site.author }}
             {% endif %} -->
+<!--
             {% if post.categories.size > 0 %}
             {{ post.categories | array_to_sentence_string | prepend: '' }}
             {% endif %}
+-->
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
             </time>
