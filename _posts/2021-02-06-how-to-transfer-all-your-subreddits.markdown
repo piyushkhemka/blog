@@ -13,7 +13,7 @@ Let me warn you - Reddit doesn't make this process easy. This is only a hack & a
 
 2.  Open a terminal & cd into the path of the downloaded unzipped folder
 
-{% highlight ruby %}
+{% highlight python %}
 cd /path/to/downloaded/folder_in_step_1
 {% endhighlight %}
 

@@ -83,9 +83,10 @@ Finally, I wrapped all the API requests in a try-catch block and instructed the 
 <br/>
 After the bot was coded, I created a new reddit account. Luckily, I managed to snag the username GANDHI-BOT. Then, I created a new <a href="https://www.reddit.com/prefs/apps" target="_blank">Reddit app</a> and replaced the authentication part of code with this account's username & password. I also replaced the client id & secret with the newly created app. Then I ran the code on my terminal
 
-```
+{% highlight python %}
 python main.py
-```
+{% endhighlight %}
+
 
 After few rounds of debugging, I managed to fix all the errors & could see that the code was working. The next step was to deploy this on the cloud so that I didn't have to run it on my laptop 24 X 7. 
 
