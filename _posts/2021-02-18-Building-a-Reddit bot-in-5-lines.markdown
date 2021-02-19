@@ -3,6 +3,7 @@ layout: post
 title:  "Building a Reddit bot in 5 lines to help teach the correct spelling of Gandhi "
 date: 2021-02-18 02:00
 categories: [gandhi_bot]
+<!--permalink: gandhi_bot-->
 ---
 
 

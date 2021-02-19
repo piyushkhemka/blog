@@ -22,4 +22,10 @@ disqus-shortname: "piyushkhemka"
 disqus: "piyushkhemka"
 sass:
     sass_dir: "_sass"
+    
+
+# Prevents the url to be generated like this
+# http://domaine.tld/category/2014/11/22/post.html.
+# Instead generates http://domaine.tld/title.html
+permalink: /:title.html
 

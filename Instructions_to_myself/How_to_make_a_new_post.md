@@ -1,4 +1,10 @@
 1. Add a new post in the _posts folder
+```
+Posts title must be in this format
+
+YYYY-MM-DD-TITLE-OF-POST.markdown
+
+```
 2. Test that it works locally - 
 ```
 bundle exec jekyll serve
@@ -9,3 +15,4 @@ bundle exec jekyll serve
 ```
 git push -u origin gh-pages
 ```
+
